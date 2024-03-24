@@ -1,25 +1,29 @@
-<h1> Projeto Calculadora<h1>
+<h1>Calculadora<h1>
   
-Sobre o Projeto
-Este é um projeto acadêmico desenvolvido por Nathan. O objetivo principal do projeto é criar uma classe de Calculadora e testa-la.
+<h2>Sobre o Projeto<h2>
+<p>
+  Este é um projeto acadêmico desenvolvido por Cauê Fogaça. O objetivo do projeto é criar uma classe de Calculadora e testa-la.
+</p>  
 
-Principais Funcionalidades
-Soma, Subtração, Multiplicação e Divisão.
-Testes feitos com framework JUNIT.
-Tecnologias Utilizadas
-Linguagem Principal
- Java
 
-Programas utilizados
- IntelliJ IDEA
+<h2>Funcionalidades<h2>
+  
+<p>Soma, Subtração, Multiplicação e Divisão.</p>
 
-Como Contribuir
-Se você deseja contribuir para este projeto, por favor, sinta-se à vontade para fazer um fork do repositório e enviar-nos um pull request.
+<h3>Testes<h3>
+<p>Testes feitos com framework JUNIT.</p>
 
-Licença
-Este projeto é para fins acadêmicos na faculdade de engenharia de Sorocaba (FACENS).
+<h2>Tecnologias Utilizadas<h2>
+<h3>Linguagem Principal<h3>
+ <p>Java</p>
+
+<h3>Programas usados<h3>
+ <p>IntelliJ IDEA</p>
+
+<h3>Licença<h3>
+<p>Este projeto é para fins acadêmicos na faculdade de engenharia de Sorocaba (FACENS).
 
  Versão atual: 1.0
 Criada a classe calculadora com as opções de soma, subtração, multiplicação e divisão.
 Criada a classe de testes da calculadora.
-2024 © Todos os direitos reservados pelo autor.
+2024 © Todos os direitos reservados pelo autor.</p>
